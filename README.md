@@ -2,7 +2,7 @@
 ![HelloWorld](https://github.com/MirkoSk/HelloWorld/blob/master/2018-05-11%20HelloWorld.png)
 
 Experiment with a free Spline Asset I found in the store. Wanted to try this out for quite some time. 
-Set up a simple scene greeting you with a Hello World animation.
+Set up a simple scene greeting you with a Hello World animation. :)
 
 ## Assets used
 
